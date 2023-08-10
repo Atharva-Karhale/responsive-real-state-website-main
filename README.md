@@ -1,6 +1,5 @@
 # 🏡 Responsive Real State Website
-## Made with code along from [Bedimcode
-](https://youtu.be/twRLgPsP1H0)
+## Made with code along from [Bedimcode](https://youtu.be/twRLgPsP1H0)
 ### 🏡 Responsive Real State Website
 
 - Responsive Real State Website Using HTML CSS & JavaScript
